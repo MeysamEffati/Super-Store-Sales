@@ -34,7 +34,7 @@ This repository contains files related to the analysis and deployment of the Sup
 - To deploy the web application, run `deployment/app.py` using a Python interpreter.
 - To view the presentation, open `other/super_store_sales.pptx` in Power Point.
 - Make sure to install the required libraries specified in `requirements.txt` before deploying the application.
-- The trained machine learning model is saved as `models/best_rf_regressor_model.pkl`.
+- The trained machine learning model is saved as `models/best_rf_regressor_model.pkl` .
 
 ## Credits:
 
