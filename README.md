@@ -38,4 +38,4 @@ This repository contains files related to the analysis and deployment of the Sup
 
 ## Credits:
 
-- This project is part of the Super Store Sales analysis and deployment.
+- This project is part of the Super Store Sales analysis and deployment!
